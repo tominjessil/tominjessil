@@ -1,5 +1,5 @@
 # 💫 About Me:
-I'm a software engineering graduate from Victoria University, New Zealand
+🇳🇿 I'm a software engineering graduate from Victoria University, New Zealand. 
 
 
 # 💻 Tech Stack:
